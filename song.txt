@@ -10,6 +10,7 @@ Wall of shielders
 standing strong
 on this their chosen battle field
 
+<<<<<<< HEAD
 standing strong
 on this their chosen battle field
 
@@ -17,4 +18,6 @@ on this their chosen battle field
 
 
 
+=======
+>>>>>>> 88e944801443c5b65e6adff493f150c20cbfc34b
 
